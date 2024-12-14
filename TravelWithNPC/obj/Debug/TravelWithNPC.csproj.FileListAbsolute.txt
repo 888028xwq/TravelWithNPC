@@ -1,0 +1,11 @@
+D:\GTA MOD\myProj\TravelWithNPC\TravelWithNPC\obj\Debug\TravelWithNPC.csproj.AssemblyReference.cache
+D:\GTA MOD\myProj\TravelWithNPC\TravelWithNPC\obj\Debug\TravelWithNPC.csproj.CoreCompileInputs.cache
+D:\GTA MOD\myProj\TravelWithNPC\TravelWithNPC\bin\Debug\TravelWithNPC.dll
+D:\GTA MOD\myProj\TravelWithNPC\TravelWithNPC\bin\Debug\TravelWithNPC.pdb
+D:\GTA MOD\myProj\TravelWithNPC\TravelWithNPC\bin\Debug\NativeUI.dll
+D:\GTA MOD\myProj\TravelWithNPC\TravelWithNPC\bin\Debug\ScriptHookVDotNet2.dll
+D:\GTA MOD\myProj\TravelWithNPC\TravelWithNPC\bin\Debug\NativeUI.xml
+D:\GTA MOD\myProj\TravelWithNPC\TravelWithNPC\bin\Debug\ScriptHookVDotNet2.pdb
+D:\GTA MOD\myProj\TravelWithNPC\TravelWithNPC\obj\Debug\TravelWithNPC.csproj.CopyComplete
+D:\GTA MOD\myProj\TravelWithNPC\TravelWithNPC\obj\Debug\TravelWithNPC.dll
+D:\GTA MOD\myProj\TravelWithNPC\TravelWithNPC\obj\Debug\TravelWithNPC.pdb
